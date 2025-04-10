@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
-import tailwindcss from '@tailwindcss/vite'
+import tailwindcss from 'tailwindcss'
+import autoprefixer from 'autoprefixer'
 
 export default defineConfig({
   plugins: [
@@ -27,9 +28,16 @@ export default defineConfig({
           }
         ]
       }
-    }),
-    tailwindcss()
+    })
   ],
+  css: {
+    postcss: {
+      plugins: [
+        tailwindcss(),
+        autoprefixer()
+      ]
+    }
+  },
   build: {
     minify: 'terser',
     terserOptions: {
