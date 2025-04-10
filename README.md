@@ -1,9 +1,7 @@
 # Smart QR Generator
 
 A modern, feature-rich QR code generator web application built with React and Tailwind CSS.
-
-![Smart QR Generator Screenshot](screenshot.p<img width="1658" alt="Screenshot 2025-04-10 at 11 38 33 PM" src="https://github.com/user-attachments/assets/5fa1221a-0930-4381-a931-fe313e20450c" />
-ng)
+screenshot.p<img width="1658" alt="Screenshot 2025-04-10 at 11 38 33 PM" src="https://github.com/user-attachments/assets/5fa1221a-0930-4381-a931-fe313e20450c" />
 
 ## Features
 
