@@ -1,111 +1,87 @@
 # Smart QR Generator
 
-# A modern, feature-rich QR code generator web application built with React and Tailwind CSS.
+> Your modern, feature-rich QR code generator web application — sleek, fast, and customizable.
 
 <img width="1658" alt="Screenshot 2025-04-10 at 11 38 33 PM" src="https://github.com/user-attachments/assets/5fa1221a-0930-4381-a931-fe313e20450c" />
 
-## Features
+QR-Generator is a responsive web application designed to simplify QR code creation. Whether you need to generate QR codes for URLs, text, or other data, QR-Generator makes it seamless with a modern UI built using React and Tailwind CSS.
 
-- Generate QR codes for various types of content:
-  - Plain text
-  - URLs
-  - WiFi credentials
-  - Email addresses
-  - Phone numbers
-- Customize appearance:
-  - QR code size
-  - Colors (foreground and background)
-  - Error correction level
-  - QR style (squares or dots)
-  - Margins
-- Add a logo to your QR code
-- Dark mode support
-- History management with export/import
-- Pre-built templates for quick styling
-- Download QR codes as PNG or SVG
-- Copy or share QR code content
-- Responsive design for mobile and desktop
+No complexity. Just input, generate, and download.
 
-## Tech Stack
+---
 
-- React
-- Tailwind CSS
-- Vite
-- qrcode.react
-- react-color
-- dom-to-image
-- file-saver
+## 📎 Quick Links  
+- [Live Demo](#-live-demo)  
+- [Features](#-features)  
+- [Tech Stack](#-tech-stack)  
+- [Why QR-Generator?](#-why-qr-generator)  
+- [Folder Structure](#-folder-structure)  
+- [Author](#-author)  
+- [Connect](#-connect-with-me)  
+- [Contributions](#-contributions)  
+- [License](#-license)
 
-## Getting Started
+---
 
-### Prerequisites
+## 🚀 Features  
+- Generate QR codes for URLs, text, and more  
+- Customize QR code size and colors  
+- Download QR codes in high-quality formats  
+- Fully responsive for all screen sizes  
+- Intuitive and modern user interface  
 
-- Node.js (v14 or higher)
-- npm or yarn
+---
 
-### Installation
+## 🛠 Tech Stack
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/NishulDhakar/QR-Generator.git
-   ```
+**Frontend**  
+- React  
+- Tailwind CSS  
 
-2. Navigate to the project directory:
-   ```
-   cd QR-Generator
-   ```
+**Additional Libraries**  
+- QR Code generation library *(e.g., qrcode.react)*
 
-3. Install dependencies:
-   ```
-   npm install
-   ```
-   or
-   ```
-   yarn
-   ```
+---
 
-4. Start the development server:
-   ```
-   npm run dev
-   ```
-   or
-   ```
-   yarn dev
-   ```
+## 🌐 Live Demo  
+🔗 [qr-generator.vercel.app](https://qr-generator-j1h7.vercel.app/) 
 
-5. Open your browser and navigate to `http://localhost:5173`
+---
 
-## Building for Production
+## 💡 Why QR-Generator?
 
-To create a production build:
+> Generating QR codes should be quick and effortless.
 
-```
-npm run build
-```
+QR-Generator is built to be:
+- **Modern** – clean and responsive design  
+- **Efficient** – fast QR code generation  
+- **Customizable** – tailor QR codes to your needs  
 
-or
+---
 
-```
-yarn build
-```
+## 👨‍💻 Author  
+**Nishul Dhakar**  
+> *"Create. Customize. Share — one scan at a time."*
 
-The build artifacts will be located in the `dist` directory.
+---
 
-## Deployment
+## 📫 Connect with Me  
+- [🌐 Portfolio](https://project-folio-chi.vercel.app/) 
+- [🐦 Twitter / X](https://x.com/NishulDhakar)  
+- [💼 LinkedIn](https://www.linkedin.com/in/nishuldhakar/)  
 
-The application can be deployed to any static site hosting service:
+---
 
-- Netlify
-- Vercel
-- GitHub Pages
-- Firebase Hosting
-- AWS S3 + CloudFront
+## 🙌 Contributions  
+Have ideas or improvements?  
+Feel free to:
+- Fork the repo  
+- Open an issue  
+- Submit a pull request  
 
-## Contributing
+> Contributions are always welcome!
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-# QR-Generator
+## 📜 License  
+This project is licensed under the MIT License.  
