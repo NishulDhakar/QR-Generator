@@ -10,19 +10,6 @@ No complexity. Just input, generate, and download.
 
 ---
 
-## 📎 Quick Links  
-- [Live Demo](#-live-demo)  
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)  
-- [Why QR-Generator?](#-why-qr-generator)  
-- [Folder Structure](#-folder-structure)  
-- [Author](#-author)  
-- [Connect](#-connect-with-me)  
-- [Contributions](#-contributions)  
-- [License](#-license)
-
----
-
 ## 🚀 Features  
 - Generate QR codes for URLs, text, and more  
 - Customize QR code size and colors  
@@ -59,19 +46,6 @@ QR-Generator is built to be:
 
 ---
 
-## 👨‍💻 Author  
-**Nishul Dhakar**  
-> *"Create. Customize. Share — one scan at a time."*
-
----
-
-## 📫 Connect with Me  
-- [🌐 Portfolio](https://project-folio-chi.vercel.app/) 
-- [🐦 Twitter / X](https://x.com/NishulDhakar)  
-- [💼 LinkedIn](https://www.linkedin.com/in/nishuldhakar/)  
-
----
-
 ## 🙌 Contributions  
 Have ideas or improvements?  
 Feel free to:
@@ -85,3 +59,24 @@ Feel free to:
 
 ## 📜 License  
 This project is licensed under the MIT License.  
+
+---
+
+## 🌠 Contact
+
+<p align="center">
+  <a href="https://twitter.com/Nishuldhakar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nishuldhakar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200">
+  <br>
+  <em>Create. Customize. Share — one scan at a time.....</em>🚀💻✨
+</p>
+
